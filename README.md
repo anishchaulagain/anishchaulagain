@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [anishchaulagain.com.np](anishchaulagain.com.np)
 
-- 💬 Ask me about **React, Flutter, Next13, Python, C, C++, TailwindCSS, CSS, Html, Assembly, SQL**
+- 💬 Ask me about **React, Flutter, NextJs, Python, C, C++, TailwindCSS, CSS, Html, Assembly, SQL**
 
 - 📫 How to reach me **anishchaulagain2058@gmail.com**
 
