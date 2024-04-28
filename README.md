@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, Flutter, NextJs, Python, C, C++, TailwindCSS, CSS, Html, Assembly, SQL**
 
-- 📫 How to reach me **anishchaulagain2058@gmail.com**
+- 📫 How to reach me **contact@anishchaulagain.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
