@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anish Chaulagain</h1>
 <h3 align="center">A passionate frontend developer and currently an Engineering student from Nepal.</h3>
 
-- 👨‍💻 All of my projects are available at [https://anish-portfolio-self.vercel.app/](https://anish-portfolio-self.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://anish-portfolio-self.vercel.app/](https://www.anishchaulagain.com.np/)
 
 - 💬 Ask me about **React, Flutter, NextJs, Python, C, C++, TailwindCSS, CSS, Html, Assembly, SQL**
 
-- 📫 How to reach me **contact@anishchaulagain.com.np**
+- 📫 How to reach me **anishchaulagain2058@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
