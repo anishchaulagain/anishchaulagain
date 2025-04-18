@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish Chaulagain</h1>
 <h3 align="center">A passionate frontend developer and currently an Engineering student from Nepal.</h3>
 
-- 👨‍💻 All of my projects are available at [https://anish-portfolio-self.vercel.app/](https://www.anishchaulagain.com.np/)
+- 👨‍💻 All of my projects are available at (https://www.anishchaulagain.com.np/)
 
 - 💬 Ask me about **React, Flutter, NextJs, Python, C, C++, TailwindCSS, CSS, Html, Assembly, SQL**
 
