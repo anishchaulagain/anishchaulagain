@@ -118,10 +118,10 @@
     <a href="https://www.linkedin.com/in/anishchaulagain/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/anish_chaulagain/">
+    <a href="https://www.instagram.com/anees_chaulagain/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="mailto:anishchaulagain@gmail.com">
+    <a href="mailto:anishchaulagain2058@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
     </a>
   </div>
