@@ -98,7 +98,7 @@
   
 - 🤝 Open to: Collaborations and creative side projects.
   
-- 📫 Let’s connect — anishchaulagain2058@gmail.com
+- 📫 Check out my portfolio:: www.anishchaulagain.com.np
 
 </br>
 
