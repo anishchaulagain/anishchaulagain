@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Chaulagain</h1>
-<h3 align="center">A passionate frontend developer and currently an Engineering student from Nepal.</h3>
+<h3 align="center">A passionate Full Stack Developer and currently an Engineering student from Nepal.</h3>
 
 - 👨‍💻 All of my projects are available at (https://www.anishchaulagain.com.np/)
 
