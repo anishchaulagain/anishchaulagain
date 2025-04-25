@@ -76,7 +76,8 @@
 
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/anishchaulagain/count.svg" alt="visitor badge"/>
+  <h3>AnishVerse - Profile View Counter</h3>
+  <img src="https://profile-counter.glitch.me/anishchaulagain/count.svg" align="center" alt="visitor badge"/>
  </br>
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishchaulagain&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
