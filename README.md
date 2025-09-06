@@ -80,7 +80,7 @@
   <img src="https://profile-counter.glitch.me/anishchaulagain/count.svg" align="center" alt="visitor badge"/>
  </br>
  </br>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishchaulgain&count_bg=%23800080&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=true)](https://hits.seeyoufarm.com)
+  
 </p>
      
   </td>
