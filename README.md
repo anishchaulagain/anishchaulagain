@@ -80,7 +80,7 @@
   <img src="https://profile-counter.glitch.me/anishchaulagain/count.svg" align="center" alt="visitor badge"/>
  </br>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishchaulagain&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishchaulgain&count_bg=%23800080&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=true)](https://hits.seeyoufarm.com)
 </p>
      
   </td>
