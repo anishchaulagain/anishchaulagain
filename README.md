@@ -72,9 +72,6 @@
   
 ## 📜 My Stats:
 
-</br>
-
-
 <p align="center">
   <h3>AnishVerse - Profile View Counter</h3>
   <img src="https://komarev.com/ghpvc/?username=anishchaulagain&style=flat-square&color=blueviolet" align="center" alt="visitor badge"/>
