@@ -77,10 +77,11 @@
 
 <p align="center">
   <h3>AnishVerse - Profile View Counter</h3>
-  <img src="https://profile-counter.glitch.me/anishchaulagain/count.svg" align="center" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=anishchaulagain&style=flat-square&color=blueviolet" align="center" alt="visitor badge"/>
  </br>
  </br>
-  
+   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishchaulagain&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+
 </p>
      
   </td>
