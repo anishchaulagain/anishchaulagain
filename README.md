@@ -10,7 +10,7 @@
 <h3>🌟 About Me!!</h3>
 
 
-🎓 Computer Engineering student passionate about building and problem-solving.&nbsp;&nbsp;&nbsp;
+🎓 Computer Engineer passionate about building and problem-solving.&nbsp;&nbsp;&nbsp;
 
 👨‍💻 Full-stack developer focused on clean UI and strong backend.
 
